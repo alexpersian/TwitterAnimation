@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					31E453B51D5E9A57004A53A6 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 6N2SEPL3YG;
+						DevelopmentTeam = 67BLBCQE27;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -259,8 +259,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6N2SEPL3YG;
+				DEVELOPMENT_TEAM = 67BLBCQE27;
 				INFOPLIST_FILE = TwitterAnimation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.alexanderpersian.TwitterAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,8 +273,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6N2SEPL3YG;
+				DEVELOPMENT_TEAM = 67BLBCQE27;
 				INFOPLIST_FILE = TwitterAnimation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.alexanderpersian.TwitterAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -300,6 +302,7 @@
 				31E453CA1D5E9A57004A53A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
